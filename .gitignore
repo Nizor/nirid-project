@@ -1,0 +1,10 @@
+#gitignore files for home dir
+
+
+rice_images
+rice_models
+.ipynb_checkpoints
+test_folder
+test_folder2
+
+
